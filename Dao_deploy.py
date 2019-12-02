@@ -37,6 +37,7 @@ def readByIdBreed(IDs):
 
     cnx.close()
     mycursor.close()
+    
 
 
 def readPupper():
